@@ -25,7 +25,7 @@
 
 #### About
 
-本项目利用java加载paddle-ocr的C++编译版本，并利用springboot进行web部署访问。
+本项目利用java加载paddle-ocr的C++编译版本（准确度与python版paddle-ocr一样），并利用springboot进行web部署访问。
 
 #### Getting started
 paddle-ocr c++编译模型下载，下载后放入resources下
