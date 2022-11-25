@@ -1,0 +1,4 @@
+java11
+djl
+springboot
+paddle-ocr c++
