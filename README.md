@@ -36,7 +36,13 @@ paddle-ocr c++编译模型下载，下载后放入resources下
 
 项目启动后访问 http://localhost:8080/swagger-ui/ 测试
 
-![image](https://raw.githubusercontent.com/jiangnanboy/java-springboot-paddleocr/master/img_result/ocr-controller.png)
+<br/><br/> 
+<p align="center">
+  <a>
+    <img src="img_result/ocr-controller.png">
+  </a>
+</p>
+<br/><br/>
 
 其中：
 
