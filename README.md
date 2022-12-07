@@ -102,8 +102,13 @@ paddle-ocr c++编译模型下载，下载后放入resources下
     
 ##### /ocr/image，返回图片结果
 
-![image](https://raw.githubusercontent.com/jiangnanboy/java-springboot-paddleocr/master/img_result/img_result.png)
-
+<br/><br/> 
+<p align="center">
+  <a>
+    <img src="img_result/img_result.png">
+  </a>
+</p>
+<br/><br/>
 
 #### Contact
 如有问题，联系我：
