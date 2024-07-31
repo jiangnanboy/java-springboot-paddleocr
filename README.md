@@ -30,7 +30,7 @@
 #### Getting started
 paddle-ocr c++编译模型下载，下载后放入resources下
 
-链接: https://pan.baidu.com/s/1_I3074n7WIv7Pyc_EoaBQA 提取码: fjh3
+链接: https://pan.baidu.com/s/1DTVYL_AOLC8nJvqF8X8jGA 提取码: ce5f
 
 项目启动后访问 http://localhost:8080/swagger-ui/ 测试
 
