@@ -24,7 +24,7 @@
 </details>
 
 #### About
-【(新的java ocr项目，java源码实现ocr功能，无需调用dll或者exe文件 ----> https://github.com/jiangnanboy/JiaJiaOCR)】
+【( 新的java ocr项目，java源码实现ocr功能，无需调用dll或者exe文件 ----> https://github.com/jiangnanboy/JiaJiaOCR )】
 
 本项目利用java加载paddle-ocr的C++编译后的可执行文件exe（准确度与python版paddle-ocr一样），并利用springboot进行web部署访问。
 
